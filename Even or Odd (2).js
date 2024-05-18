@@ -1,6 +1,6 @@
 // Fikri Faizal Hamzah Alfa'iz //
 
-// Codewars challenge 2024 //
+// Codewars Challenge 2024 //
 
 // https : https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
 
