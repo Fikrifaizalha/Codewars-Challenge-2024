@@ -2,7 +2,7 @@
 
 // Codewars Challenge 2024 //
 
-// https : https://www.codewars.com/kata/5265326f5fda8eb1160004c8
+// https://www.codewars.com/kata/5265326f5fda8eb1160004c8
 
 // CARA KE 1
 

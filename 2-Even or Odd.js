@@ -2,7 +2,7 @@
 
 // Codewars Challenge 2024 //
 
-// https : https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
+// https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
 
 // CARA KE 1
 function evenOrOdd(number) {

@@ -2,7 +2,7 @@
 
 // Codewars Challenge 2024 //
 
-// https : https://www.codewars.com/kata/57356c55867b9b7a60000bd7
+// https://www.codewars.com/kata/57356c55867b9b7a60000bd7
 
 // CARA KE 1 //
 function basicOp(operation, value1, value2) {
